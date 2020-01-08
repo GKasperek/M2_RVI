@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/TP5.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/MedievalTownExteriors/Scenes/Village.unity
+  isLoaded: 1
+  isActive: 0
